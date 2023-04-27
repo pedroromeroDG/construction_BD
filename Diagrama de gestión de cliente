@@ -1,19 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T22:15:03.887Z" agent="Mozilla/5.0 (Linux; Android 13; V2057) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" etag="6RZ8k21uT2dlNc3oVDXA" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T22:24:42.612Z" agent="Mozilla/5.0 (Linux; Android 13; V2057) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" etag="iTDTGfosgC6k0liIOjlp" version="21.2.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="551" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="515" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DZqOdT2WSzzkY_NMrXwW-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Auxiliar&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="DZqOdT2WSzzkY_NMrXwW-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Auxiliar&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="130" y="160" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DZqOdT2WSzzkY_NMrXwW-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Gestión de mascotas&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="DZqOdT2WSzzkY_NMrXwW-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Gestión de mascotas&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="270" y="165" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DZqOdT2WSzzkY_NMrXwW-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DZqOdT2WSzzkY_NMrXwW-6">
+        <mxCell id="DZqOdT2WSzzkY_NMrXwW-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DZqOdT2WSzzkY_NMrXwW-6" edge="1" target="FVUqDv7MXOeGg8e6ZcEJ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="140" as="sourcePoint" />
             <mxPoint x="480" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DZqOdT2WSzzkY_NMrXwW-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="200" as="sourcePoint" />
+            <mxPoint x="520" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="DZqOdT2WSzzkY_NMrXwW-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="180" as="sourcePoint" />
+            <mxPoint x="510" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="DZqOdT2WSzzkY_NMrXwW-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="230" as="sourcePoint" />
+            <mxPoint x="510" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DZqOdT2WSzzkY_NMrXwW-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="sourcePoint" />
+            <mxPoint x="500" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-6" value="Dar de alta mascotas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-7" value="Modificar mascotas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-8" value="Da de baja&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="165" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-9" value="Autentificación y identificación&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-10" value="Dar de alta mascotas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-11" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FVUqDv7MXOeGg8e6ZcEJ-6" target="FVUqDv7MXOeGg8e6ZcEJ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="60" as="sourcePoint" />
+            <mxPoint x="720" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-12" value="Se comprueba que este dado de alta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-14" value="Reiac" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVUqDv7MXOeGg8e6ZcEJ-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FVUqDv7MXOeGg8e6ZcEJ-12" target="FVUqDv7MXOeGg8e6ZcEJ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="70" as="sourcePoint" />
+            <mxPoint x="920" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
